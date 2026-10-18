@@ -13,3 +13,5 @@ Wevery Slide should be fullpage display, when the user scrolls down then it swap
 
 
 ## Sub-Tasks
+- Interactivity: slide-in animations per slide, slide indicator dots, keyboard navigation, `prefers-reduced-motion`.
+- SEO extras: og-image, `robots.txt`, `sitemap.xml`, favicon/manifest from the Parteon logo.
