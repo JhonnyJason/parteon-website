@@ -1,0 +1,9 @@
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/parteon-website-sources.git
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/parteon-website-output.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
